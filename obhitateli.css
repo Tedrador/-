@@ -1,0 +1,9 @@
+body {
+    background-image: url("imgs/images\ 4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.text-style {
+    font-weight: bold;
+}
